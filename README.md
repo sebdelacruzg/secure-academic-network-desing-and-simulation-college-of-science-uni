@@ -15,7 +15,7 @@ This repository serves as a **portfolio project** and *case study* demonstrating
 - **Apply** security policies using Access Control Lists (ACLs) to filter and control traffic between VLANs.  
 - **Validate** the entire design through comprehensive connectivity and security testing.
   
----
+
 
 ## 🛠️ Key Features Implemented
 
@@ -33,4 +33,4 @@ This repository serves as a **portfolio project** and *case study* demonstrating
 - **ACLs (Access Control Lists):** Enforced to secure network segments (e.g., Students VLAN cannot access Administration or Server VLANs).  
 - **NAT (Network Address Translation):** Configured so the entire internal network can access the Internet securely.
 
----
+
