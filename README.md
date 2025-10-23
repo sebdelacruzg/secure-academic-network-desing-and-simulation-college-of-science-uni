@@ -4,7 +4,7 @@ Design, simulation, and documentation of a hierarchical network architecture for
 
 This repository serves as a **portfolio project** and *case study* demonstrating the design and implementation of a secure, scalable, and modern network for a medium-sized academic institution.
 
----
+
 
 ## 🎯 Project Objectives
 
