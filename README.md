@@ -8,12 +8,12 @@ This repository serves as a **portfolio project** and *case study* demonstrating
 
 ## 🎯 Project Objectives
 
-**Design** a hierarchical, secure, and scalable network for the College of Science scenario.  
-**Segment** the network into logical broadcast domains (VLANs) to separate traffic for Students, Faculty, Administration, Labs, and Servers.  
-**Implement** inter-VLAN routing (using the *router-on-a-stick* method) to allow controlled communication between VLANs.  
-**Configure** essential network services such as DHCP (for dynamic IP assignment) and NAT (for Internet access).  
-**Apply** security policies using Access Control Lists (ACLs) to filter and control traffic between VLANs.  
-**Validate** the entire design through comprehensive connectivity and security testing.
+- **Design** a hierarchical, secure, and scalable network for the College of Science scenario.  
+- **Segment** the network into logical broadcast domains (VLANs) to separate traffic for Students, Faculty, Administration, Labs, and Servers.  
+- **Implement** inter-VLAN routing (using the *router-on-a-stick* method) to allow controlled communication between VLANs.  
+- **Configure** essential network services such as DHCP (for dynamic IP assignment) and NAT (for Internet access).  
+- **Apply** security policies using Access Control Lists (ACLs) to filter and control traffic between VLANs.  
+- **Validate** the entire design through comprehensive connectivity and security testing.
   
 
 
